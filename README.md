@@ -92,8 +92,8 @@ Proje başarısı aşağıdaki ölçütlerle değerlendirilir:
 - **Streamlit** (kullanıcı arayüzü)
 - **Vektör Veritabanı:** ChromaDB
 - **Dil Modelleri:**  
-  - Bulut tabanlı LLM’ler (teorik değerlendirme)  
-  - Yerel çalışabilen açık kaynak LLM’ler (opsiyonel)
+  - Yerel çalışabilen açık kaynak LLM’ler (Ollama)
+  - Gemini API tabanlı LLM’ler   
 
 > Model seçimi; gizlilik, maliyet ve donanım kısıtlarına göre değerlendirilmektedir.
 
