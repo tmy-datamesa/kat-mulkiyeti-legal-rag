@@ -85,7 +85,7 @@ Proje başarısı aşağıdaki ölçütlerle değerlendirilir:
 
 ---
 
-## 🧱 Teknoloji Yığını (Tech Stack)
+## 🧱 Tech Stack
 
 - **Python**
 - **LangChain** (RAG orkestrasyonu)
