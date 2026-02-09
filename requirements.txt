@@ -1,0 +1,23 @@
+# --- LLM ORKESTRASYON VE YAPI ---
+# LangChain: Farklı bileşenleri (LLM, DB, Prompt) birbirine bağlayan ana iskelet.
+langchain==0.1.0
+# LangChain Community: Üçüncü taraf entegrasyonları (ChromaDB vb.) için gerekli araçlar.
+langchain-community==0.0.12
+
+# --- MODELLER VE EMBEDDING ---
+# Gemini Entegrasyonu: Google'ın üretken yapay zeka modellerine erişim sağlar.
+langchain-google-genai==0.0.5
+# Sentence-Transformers: Metinleri sayısal vektörlere çeviren yerel embedding modelleri için.
+sentence-transformers==2.3.1
+
+# --- VERİ DEPOLAMA VE ANALİZ ---
+# ChromaDB: Vektörleştirilmiş kanun maddelerini saklayan ve hızlı arama yapan veritabanı.
+chromadb==0.4.22
+# PyPDF: Mevzuat PDF dosyalarındaki metni okuyup Python nesnesine dönüştürmek için.
+pypdf==4.0.1
+
+# --- ARA YÜZ VE OPERASYON ---
+# Python-Dotenv: .env dosyasındaki API anahtarlarını güvenli bir şekilde yüklemek için.
+python-dotenv==1.0.1
+# Streamlit: Veri bilimi projeleri için hızlı ve etkileşimli web arayüzü (Chatbot ekranı).
+streamlit==1.31.0
